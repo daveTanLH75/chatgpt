@@ -313,7 +313,7 @@ def ex11():
 			st.write(bytes_data)
 
 def main():
-		ex10()
+		ch10()
 
 if __name__ == "__main__":
 	main()
